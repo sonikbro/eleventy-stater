@@ -33,8 +33,6 @@ Install the site and run an initial build command:
 cd eleventy-stater
 
 npm install
-
-npx run build (only necessary the first time!)
 ```
 
 _If you get errors here, double check your node version!_

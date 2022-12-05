@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "build": "rm -rf dist && eleventy && gulp build",
-    "serve": "eleventy --serve",
     "start": "eleventy --serve",
     "debug": "DEBUG=* eleventy"
   },
