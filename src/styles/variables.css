@@ -1,16 +1,19 @@
 :root {
     --main--color: #262626;
+    --white--color: #fff;
+    --font-family: -apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
     --font-size: 10px;
 }
 
 html {
     color: var(--main--color);
     font-size: var(--font-size);
+    font-family: var(--font-family);
     font-weight: 400;
     font-display: swap;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
-    background-color: #fff;
+    background-color: var(--white--color);
 }
 
 @media (max-width:768px) {

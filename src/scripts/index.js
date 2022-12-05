@@ -1,6 +1,5 @@
 "use strict";
 
-// Установка после загрузки
-window.addEventListener("DOMContentLoaded", function () {
+window.addEventListener("DOMContentLoaded", () => {
     console.log("DOMContentLoaded");
 });

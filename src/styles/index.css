@@ -1,10 +1,11 @@
 /* Stylesheets */
 /* This style ready to use */
-@import 'variables.css';
-@import 'blocks/theme.css';
-@import 'blocks/root.css';
+@import "variables.css";
+@import "blocks/theme.css";
+@import "blocks/root.css";
 
-@import 'blocks/header.css';
-@import 'blocks/footer.css';
+@import "blocks/header.css";
+@import "blocks/footer.css";
+@import "blocks/animations.css";
 
-@import 'local.css';
+@import "local.css";
